@@ -1,6 +1,6 @@
 # Cucumber-Java Skeleton
 
-[![Build Status](https://travis-ci.org/cucumber/cucumber-java-skeleton.svg?branch=main)](https://travis-ci.org/cucumber/cucumber-java-skeleton)
+[![Build Status](https://dev.azure.com/msapmdemo/GithubCodeWorkFlow/_apis/build/status/abymsft.sample-cucumber-java-azpipelines?branchName=main)](https://dev.azure.com/msapmdemo/GithubCodeWorkFlow/_build/latest?definitionId=41&branchName=main)
 
 This is the simplest possible build script setup for Cucumber using Java.
 There is nothing fancy like a webapp or browser testing. All this does is to show you how
