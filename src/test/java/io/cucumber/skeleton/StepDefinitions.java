@@ -24,6 +24,6 @@ public class StepDefinitions {
     @Then("my belly should growl")
     public void my_belly_should_growl() {
     	assertEquals(1,1);
-    	assertNotEquals(1,1);
+    	//assertNotEquals(1,1);
     }
 }
